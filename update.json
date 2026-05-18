@@ -1,0 +1,8 @@
+{
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/clebermuniz/binmax-releases/releases/download/v1.0.1/app-release.apk",
+  "releaseNotes": "• Controles do player VLC funcionando com o controle remoto\n• Nova tela de Música estilo Spotify (sidebar + mini-player + prev/next)\n• Zapping de canais via D-pad\n• Mini-guia de canais\n• Correções gerais",
+  "mandatory": false,
+  "fileSizeMb": 125
+}
