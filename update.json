@@ -1,8 +1,9 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/clebermuniz/binmax-releases/releases/download/v1.0.1/app-release.apk",
-  "releaseNotes": "• Controles do player VLC funcionando com o controle remoto\n• Nova tela de Música estilo Spotify (sidebar + mini-player + prev/next)\n• Zapping de canais via D-pad\n• Mini-guia de canais\n• Correções gerais",
+  "versionCode": 3,
+  "versionName": "1.2.1",
+  "version": "v1.2.1",
+  "apkUrl": "https://github.com/clebermuniz/binmax-releases/raw/main/app-release.apk",
+  "releaseNotes": "• Áudio da Aurora corrigido via Web Audio API\n• Controles do player com botões Avançar/Retroceder de 10s no rodapé e mapeamento D-pad e teclas físicas do controle\n• Correção de fechar o player acidentalmente com o botão voltar (Back)\n• Resolução de conflitos de controle de reprodução",
   "mandatory": false,
-  "fileSizeMb": 125
+  "fileSizeMb": 8
 }
